@@ -1,0 +1,29 @@
+{
+    "products":[
+        {
+            "id":98,
+            "name":"pani-puri",
+            "price":"30",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Home_made_Indian_Panipuri.jpg/1024px-Home_made_Indian_Panipuri.jpg"
+    },
+    {
+        "id":99,
+        "name":"Samosa",
+        "price":"20",
+        "image":"https://happietrio.com/wp-content/uploads/2016/04/chickensamosa1-1.jpg"
+},
+{
+    "id":100,
+    "name":"pav bhaji",
+    "price":"50",
+    "image":"https://www.thestatesman.com/wp-content/uploads/2019/07/pav-bhaji.jpg"
+},
+{
+    "id":101,
+    "name":"Masala chat",
+    "price":"25",
+    "image":"https://www.theculinarypeace.com/wp-content/uploads/2019/09/6700F2D1-DBC9-4B33-AEFC-D95669857954-819x1024.jpeg"
+}
+
+]
+}
